@@ -1,0 +1,3 @@
+I am attesting that this GitHub handle kimpaking is linked to the Tezos account tz1MgZFEUzm9UhVWsPiMhUxieFjSgXVp1CAt for tzprofiles
+
+sig:edsigtyPQTCqQudnBev21Ay8b8xaAFchyMyMEEW2vkxE7UYMBPS1KdMACS68YduXEx73mSsP62b2H4o56Qmp7mBECWvwmv5ZwUF
